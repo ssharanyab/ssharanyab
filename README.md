@@ -4,14 +4,11 @@
    <br>
   - 🔭 I’m currently working on Flutter<br>
   - 🌱 I’m currently learning OpenCV<br>
-  - ⚡️ Fun-Fact, I am passionate about space<br>
+  - ⚡️ Fun-Fact, I am passionate about space<br><br><br>
 </p>
- 
-
   
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=ssharanyab&show_icons=true&theme=tokyonight)
-  <br><br><br>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssharanyab&theme=tokyonight)
+  <br><br>
 
 ### Connect with me
 
@@ -21,9 +18,9 @@
 <a href="https://www.linkedin.com/in/ssharanyab/">
 <img align="left" alt="priyanka prasad  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
-### Visitor count
-<p align="center"> 
+<br><br>
+<p align="center">
+   Visitor count<br>
  <br>
   <img src="https://profile-counter.glitch.me/ssharanyab/count.svg" />
 </p>
