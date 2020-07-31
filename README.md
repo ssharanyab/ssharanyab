@@ -19,7 +19,7 @@
 <img align="left" alt="priyanka prasad  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br><br>
-<p align="center">
+<p>
    Visitor count<br>
  <br>
   <img src="https://profile-counter.glitch.me/ssharanyab/count.svg" />
