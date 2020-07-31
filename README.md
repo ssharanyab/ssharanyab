@@ -6,9 +6,6 @@
   - 🌱 I’m learning OpenCV<br>
   - 🔭 Fun-Fact, I have made telescope<br><br>
 </p>
-  
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=ssharanyab&show_icons=true&theme=tokyonight)
-  <br><br>
 
 ### Connect with me
 
