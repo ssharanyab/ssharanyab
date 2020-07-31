@@ -4,7 +4,7 @@
    <br>
   - 🔭 I’m currently working on Flutter<br>
   - 🌱 I’m currently learning OpenCV<br>
-  - ⚡️ Fun-Fact, I am passionate about space<br><br><br>
+  - ⚡️ Fun-Fact, I am passionate about space<br><br>
 </p>
   
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=ssharanyab&show_icons=true&theme=tokyonight)
