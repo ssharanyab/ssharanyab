@@ -6,6 +6,7 @@
   - 🌱 I’m learning OpenCV<br>
   - 🔭 Fun-Fact, I have made telescope<br><br>
 </p>
+
 ### Connect with me
 <a href="https://twitter.com/ssharanyab">
 <img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -14,6 +15,7 @@
 <img align="left" alt="priyanka prasad  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br><br>
+
 ### Visitor count
 <p>
  <br>
