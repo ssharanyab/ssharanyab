@@ -1,8 +1,8 @@
 ### Hi 👋
 <p>
-  I am S Sharanya Bharghavi. I am currently pursuing my BTech from Lovely Professional University, Punjab. I am passionate about technology. I am an ardent reader and explorer.
+  I am S Sharanya Bharghavi. I am passionate about technology. I am an ardent reader and explorer.
    <br>
-  -  ⚡️ I’m currently working on Flutter<br>
+  -  ⚡️ I’m currently working on Flutter and Pygame<br>
   - 🌱 I’m learning OpenCV<br>
   - 🔭 Fun-Fact, I have made telescope<br><br>
 </p>
