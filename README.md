@@ -1,9 +1,9 @@
 ### Hi 👋
 <p>
-  I am S Sharanya Bharghavi. I am passionate about technology. I am an ardent reader and explorer.
+  I am S Sharanya Bharghavi.
    <br>
   -  ⚡️ I’m currently working on Flutter and Pygame<br>
-  - 🌱 I’m learning OpenCV<br>
+  - 🌱  I am an ardent reader and explorer.<br>
   - 🔭 Fun-Fact, I have made telescope<br><br>
 </p>
 
