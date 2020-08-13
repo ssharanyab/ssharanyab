@@ -16,8 +16,3 @@
 </a>
 <br><br>
 
-### Visitor count
-<p>
- <br>
-  <img src="https://profile-counter.glitch.me/ssharanyab/count.svg" />
-</p>
