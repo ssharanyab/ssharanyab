@@ -7,6 +7,12 @@
   - 🔭 Fun-Fact, I have made telescope<br><br>
 </p>
 
+### My Skills
+<a>
+ - <img align = "left" width ="18px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg"/>
+</a>
+
+
 ### Connect with me
 <a href="https://twitter.com/ssharanyab">
 <img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
