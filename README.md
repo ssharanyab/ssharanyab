@@ -8,9 +8,8 @@
 </p>
 
 ### My Skills
-<a>
- - <img align = "left" width ="18px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg"/>
-</a>
+
+ <img align = "left" width ="18px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg"/>
 
 
 ### Connect with me
