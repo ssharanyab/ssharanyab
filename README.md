@@ -6,9 +6,7 @@
   - 🎮 I’m currently upskilling myself on Game Development and Augmented Reality<br>
   - 🌱 I am an ardent reader and explorer.<br>
   - 🔭 Fun-Fact, I have made telescope<br><br>
-  <p align="center">
-  [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssharanyab&theme=tokyonight_duo) (https://github.com/DenverCoder1/github-readme-streak-stats)
-  </p>
+  
 
 </p>
 
