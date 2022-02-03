@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Flutter and AR projects**
 
-- 🌱 I’m currently learning **Extended Reality Frameworks**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **ssharanyab@gmail.com**
 
