@@ -43,7 +43,7 @@ I eagerly take part in hackathons and collaborate with people in ideating and wo
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/ssharanyab/ssharanyab/blob/master/profileimagesharanya.png" align="center" style="width: 100%" />
+<img src="https://github.com/ssharanyab/ssharanyab/blob/master/profileimagesharanya.png" align="center" style="width: 100% height="40"" />
 </div>  
 
 
