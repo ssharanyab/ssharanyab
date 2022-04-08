@@ -31,7 +31,7 @@ I eagerly take part in hackathons and collaborate with people in ideating and wo
 - 💻 I’m currently working on a [tourism application](https://github.com/ssharanyab/mumbai-darshan) 
   
 
-- 👓 I’m currently learning Virtual Reality  
+- 👓 I’m currently upskilling on Virtual Reality and developing applications using it. 
   
 
 - ❓Ask me about anything related to App and Game Development  
@@ -43,7 +43,7 @@ I eagerly take part in hackathons and collaborate with people in ideating and wo
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/ssharanyab/ssharanyab/blob/master/githubprofile.png" align="center" style="width: 100%" />
+<img src="https://github.com/ssharanyab/ssharanyab/blob/master/githubprofilesharanya.png" align="center" style="width: 100%" />
 </div>  
 
 
