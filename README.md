@@ -83,27 +83,3 @@ I eagerly take part in hackathons and collaborate with people in ideating and wo
 </div>  
 
 <br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ssharanyab&show_icons=true&count_private=true&hide_border=true" align="left"  />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=ssharanyab&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
