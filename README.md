@@ -25,7 +25,7 @@ I eagerly take part in hackathons and collaborate with people in ideating and wo
 
 
 
-## Rapidfire  
+## In-Short  
 <table><tr><td valign="top" width="50%">
 
 - 💻 I’m currently working on a [tourism application](https://github.com/ssharanyab/mumbai-darshan) 
