@@ -15,7 +15,7 @@
 
 ### 
   
-I am a student developer skilled at developing mobile apps and games. My greatest strength is in developing cross-platform mobile applications that have lightweight architecture, sleek user interfaces and robust performance. Other than this, I am capable of comprehending the multiple aspects of XR-based applications, as well as architecting, designing and prototyping the overall product. I aspire to have a research-based career in human-computer interaction focusing especially on Extended Reality(XR).
+I am a developer skilled at developing mobile apps and games. My greatest strength is in developing cross-platform mobile applications that have lightweight architecture, sleek user interfaces and robust performance. Other than this, I am capable of comprehending the multiple aspects of XR-based applications, as well as architecting, designing and prototyping the overall product. I aspire to have a research-based career in human-computer interaction focusing especially on Extended Reality(XR).
 
 I eagerly take part in hackathons and collaborate with people in ideating and working together to build project prototypes that are sustainable solutions to real-world problems.
 
